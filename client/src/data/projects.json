@@ -1,0 +1,211 @@
+[
+  {
+    "id": "1",
+    "title": "LED Matrix Display",
+    "description": "8x8 LED matrix with scrolling text display using Arduino Uno",
+    "components": "Arduino Uno, LED Matrix, Resistors",
+    "price": 299,
+    "imageUrl": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Digital", "Display"],
+    "groupNumber": 1,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "2",
+    "title": "Temperature Monitor",
+    "description": "Real-time temperature and humidity monitoring with LCD display",
+    "components": "DHT22, Arduino, LCD, WiFi Module",
+    "price": 449,
+    "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Sensor", "IoT"],
+    "groupNumber": 2,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "3",
+    "title": "Auto Plant Watering",
+    "description": "Automated plant watering system with soil moisture detection",
+    "components": "Soil Sensor, Water Pump, Arduino, Relay",
+    "price": 599,
+    "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Sensor", "Automation"],
+    "groupNumber": 3,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "4",
+    "title": "Smart Security System",
+    "description": "Motion detection with SMS alerts and camera integration",
+    "components": "PIR Sensor, Camera, GSM Module, Arduino",
+    "price": 799,
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=200",
+    "tags": ["IoT", "Security"],
+    "groupNumber": 4,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "5",
+    "title": "Home Automation",
+    "description": "Voice-controlled home appliances with mobile app",
+    "components": "ESP32, Relays, Voice Module, App",
+    "price": 699,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=200",
+    "tags": ["IoT", "Voice"],
+    "groupNumber": 5,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "6",
+    "title": "Digital Clock & Timer",
+    "description": "Multi-function digital clock with alarm and timer features",
+    "components": "7-Segment Display, RTC, Buzzer, Arduino",
+    "price": 349,
+    "imageUrl": "https://images.unsplash.com/photo-1509475826633-fed577a2c71b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Digital", "Timer"],
+    "groupNumber": 6,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "7",
+    "title": "RFID Access Control",
+    "description": "RFID-based door lock system with authorized card access",
+    "components": "RFID Reader, Servo Motor, Arduino, LCD",
+    "price": 529,
+    "imageUrl": "https://images.unsplash.com/photo-1516135651899-7fbbf4d0a7a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["RFID", "Security"],
+    "groupNumber": 7,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "8",
+    "title": "Bluetooth Car Control",
+    "description": "Remote controlled car using Bluetooth and smartphone app",
+    "components": "Bluetooth Module, DC Motors, Arduino, Chassis",
+    "price": 479,
+    "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Bluetooth", "Robotics"],
+    "groupNumber": 8,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "9",
+    "title": "Solar Power Tracker",
+    "description": "Automatic solar panel positioning system for maximum efficiency",
+    "components": "LDR Sensors, Servo Motors, Arduino, Solar Panel",
+    "price": 649,
+    "imageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Solar", "Automation"],
+    "groupNumber": 9,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "10",
+    "title": "Weather Station",
+    "description": "Complete weather monitoring system with multiple sensors",
+    "components": "Temperature, Humidity, Pressure Sensors, Arduino, Display",
+    "price": 589,
+    "imageUrl": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Sensor", "Weather"],
+    "groupNumber": 10,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "11",
+    "title": "Fire Alarm System",
+    "description": "Smoke and flame detection with automatic alert system",
+    "components": "Smoke Sensor, Flame Sensor, Buzzer, GSM Module, Arduino",
+    "price": 459,
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Sensor", "Safety"],
+    "groupNumber": 11,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "12",
+    "title": "Obstacle Avoiding Robot",
+    "description": "Autonomous robot with ultrasonic sensors for navigation",
+    "components": "Ultrasonic Sensor, DC Motors, Arduino, Chassis",
+    "price": 519,
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Robotics", "Sensor"],
+    "groupNumber": 12,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "13",
+    "title": "Smart Doorbell",
+    "description": "WiFi-enabled doorbell with camera and mobile notifications",
+    "components": "ESP32, Camera Module, PIR Sensor, Buzzer",
+    "price": 629,
+    "imageUrl": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["IoT", "Security"],
+    "groupNumber": 13,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "14",
+    "title": "Voice Controlled Fan",
+    "description": "Voice recognition system for controlling fan speed and direction",
+    "components": "Voice Recognition Module, Servo Motor, Arduino, Fan",
+    "price": 399,
+    "imageUrl": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Voice", "Automation"],
+    "groupNumber": 14,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "15",
+    "title": "Heart Rate Monitor",
+    "description": "Wearable heart rate monitoring device with display",
+    "components": "Heart Rate Sensor, OLED Display, Arduino Nano, Battery",
+    "price": 369,
+    "imageUrl": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Health", "Sensor"],
+    "groupNumber": 15,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "16",
+    "title": "Smart Parking System",
+    "description": "Automated parking slot detection and management system",
+    "components": "IR Sensors, Servo Motors, Arduino, LCD Display",
+    "price": 559,
+    "imageUrl": "https://images.unsplash.com/photo-1590674899484-d5640e854abe?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Sensor", "Automation"],
+    "groupNumber": 16,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "17",
+    "title": "Gesture Controlled Robot",
+    "description": "Robot controlled by hand gestures using accelerometer",
+    "components": "Accelerometer, RF Modules, DC Motors, Arduino",
+    "price": 489,
+    "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Gesture", "Robotics"],
+    "groupNumber": 17,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "18",
+    "title": "Digital Voltmeter",
+    "description": "Precision digital voltmeter with LCD display and data logging",
+    "components": "ADC Module, LCD Display, Arduino, Voltage Divider",
+    "price": 319,
+    "imageUrl": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Digital", "Measurement"],
+    "groupNumber": 18,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  },
+  {
+    "id": "19",
+    "title": "Smart Street Light",
+    "description": "Automatic street light control based on ambient light and motion",
+    "components": "LDR, PIR Sensor, LED Lights, Arduino, Relay",
+    "price": 429,
+    "imageUrl": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=200",
+    "tags": ["Sensor", "Smart City"],
+    "groupNumber": 19,
+    "teamMembers": ["Member 1", "Member 2", "Member 3", "Member 4"]
+  }
+]

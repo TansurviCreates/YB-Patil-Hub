@@ -1,0 +1,34 @@
+AuthContext.tsx:47 Profile fetched: null
+chunk-WERSD76P.js?v=069bd532:521 Warning: validateDOMNesting(...): <a> cannot appear as a descendant of <a>.
+    at a
+    at a
+    at https://effa8d5c-a609-4e91-a0c3-3fe7caaedff8-00-167j6jbn93cww.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=069bd532:337:18
+    at li
+    at ul
+    at div
+    at nav
+    at Sidebar (https://effa8d5c-a609-4e91-a0c3-3fe7caaedff8-00-167j6jbn93cww.kirk.replit.dev/src/components/Sidebar.tsx?t=1756385622501:35:20)
+    at div
+    at Layout (https://effa8d5c-a609-4e91-a0c3-3fe7caaedff8-00-167j6jbn93cww.kirk.replit.dev/src/components/Layout.tsx?t=1756385622501:24:19)
+    at Provider (https://effa8d5c-a609-4e91-a0c3-3fe7caaedff8-00-167j6jbn93cww.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-BCLB22GG.js?v=069bd532:22:15)
+    at TooltipProvider (https://effa8d5c-a609-4e91-a0c3-3fe7caaedff8-00-167j6jbn93cww.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=069bd532:61:5)
+    at CartProvider (https://effa8d5c-a609-4e91-a0c3-3fe7caaedff8-00-167j6jbn93cww.kirk.replit.dev/src/contexts/CartContext.tsx:44:32)
+    at AuthProvider (https://effa8d5c-a609-4e91-a0c3-3fe7caaedff8-00-167j6jbn93cww.kirk.replit.dev/src/contexts/AuthContext.tsx?t=1756385622501:36:32)
+    at ThemeProvider (https://effa8d5c-a609-4e91-a0c3-3fe7caaedff8-00-167j6jbn93cww.kirk.replit.dev/src/contexts/ThemeContext.tsx:33:33)
+    at QueryClientProvider (https://effa8d5c-a609-4e91-a0c3-3fe7caaedff8-00-167j6jbn93cww.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=069bd532:2805:3)
+    at App
+printWarning @ chunk-WERSD76P.js?v=069bd532:521
+error @ chunk-WERSD76P.js?v=069bd532:505
+validateDOMNesting @ chunk-WERSD76P.js?v=069bd532:8256
+createInstance @ chunk-WERSD76P.js?v=069bd532:8328
+completeWork @ chunk-WERSD76P.js?v=069bd532:16290
+completeUnitOfWork @ chunk-WERSD76P.js?v=069bd532:19224
+performUnitOfWork @ chunk-WERSD76P.js?v=069bd532:19206
+workLoopSync @ chunk-WERSD76P.js?v=069bd532:19137
+renderRootSync @ chunk-WERSD76P.js?v=069bd532:19116
+performConcurrentWorkOnRoot @ chunk-WERSD76P.js?v=069bd532:18678
+workLoop @ chunk-WERSD76P.js?v=069bd532:197
+flushWork @ chunk-WERSD76P.js?v=069bd532:176
+performWorkUntilDeadline @ chunk-WERSD76P.js?v=069bd532:384Understand this error
+AdminPanel.tsx:45 AdminPanel - Current userProfile: null
+AdminPanel.tsx:46 AdminPanel - userProfile?.isAdmin: undefined

@@ -1,0 +1,118 @@
+Create a fully responsive and modern educational web app called **"YB Patil Hub"** using:
+- Frontend: HTML, CSS (Tailwind optional), JavaScript
+- Backend: Firebase (Authentication, Firestore, Storage) or Node.js + MongoDB
+- Authentication: Firebase Auth (Email/Password)
+
+### 🔐 User Authentication
+- Signup/Login system.
+- During registration, users select:
+  - Stream: Computer / Civil / Mechanical / ENTC
+  - Year: 1st / 2nd / 3rd
+- These selections are saved in Firestore/MongoDB and cannot be changed later.
+
+---
+
+### 🏠 Landing Page
+- Elegant welcome message:
+  “Welcome to MSBTE Hub – Your one-stop platform for previous year question papers, DTE projects, events, and more!”
+- Three main buttons on the homepage:
+  1. 📚 Previous Year Papers
+  2. ⚡ DTE Electronic Projects
+  3. 📅 Events
+
+---
+
+### 📚 Previous Year Papers
+- Tabbed or collapsible sections by term:
+  - Winter 2024, Summer 2024, Winter 2023, etc.
+- Admin can upload PDFs with:
+  - Term, Subject Name, Subject Code
+- Features:
+  - Search by subject or code
+  - Subject-wise filter
+  - Bookmark PDFs
+  - Download count visible per file
+  - Comments section (non-anonymous)
+- Files stored in Firebase Storage or Cloudinary.
+
+---
+
+### ⚡ DTE Electronic Projects
+- Showcase 19 microprojects (4 members per group).
+- Each project card includes:
+  - Title, short description, core components, price (₹), thumbnail.
+  - Add-to-cart/selection checkbox.
+- Features:
+  - Real-time cart showing total items, subtotal, 10% discount toggle, final price.
+  - Download quotation (print-ready PDF with all selected projects and prices).
+  - Sorting (Price low→high/high→low, A→Z) and tag filters (e.g., Analog, Digital, Sensor, Timer).
+  - Persistent cart using localStorage.
+  - Team listing: 19 groups, each with member placeholders.
+
+---
+
+### 📅 Events
+- Users can view and host events (meetups, parties, seminars).
+- Event submission form: title, description, location, date & time.
+- Events require admin approval.
+- Once approved:
+  - All users receive notifications.
+  - Users can RSVP ("I'm Interested").
+  - Show upcoming & past events with countdown.
+
+---
+
+### ☕ Donate
+- “Support the Developer” page with QR Code (Buy Me a Coffee / UPI).
+- Button: “Donate / Buy Me a Coffee” → opens QR & payment info.
+
+---
+
+### 👤 Profile Page
+- Shows:
+  - User’s stream & year
+  - Bookmarked PDFs
+  - Confessions posted (if applicable)
+  - Comments history
+
+---
+
+### 🛠 Admin Panel
+- Manage uploads (papers/projects)
+- Approve/reject events
+- Moderate/delete confessions
+- View download statistics
+
+---
+
+### 🌟 Key Features
+- Search & filter for papers
+- Bookmarking and reactions
+- Download counts
+- DTE projects shopping/quotation system
+- Events hosting + approval workflow
+- Notifications (Firebase Cloud Messaging)
+- Dark/Light mode toggle
+- Fully responsive (mobile-first)
+- Clean, modular code
+
+---
+
+### ⚙ Tech Stack
+- **Frontend:** HTML, CSS (Tailwind optional), JavaScript
+- **Backend:** Firebase (preferred) or Node.js with Express + MongoDB
+- **Database:** Firestore or MongoDB
+- **Auth:** Firebase Authentication
+- **File Storage:** Firebase Storage or Cloudinary
+- **Notifications:** Firebase Cloud Messaging
+
+### Additional Requirements
+- Include dummy data: sample PDFs, 19 DTE projects with prices (₹149–₹699), and example events.
+- Provide clean UI/UX with semantic HTML and accessibility (labels, aria, focus).
+- Print-ready quotation for selected projects (A4 layout).
+- Separate files: index.html, styles.css, app.js, auth.js, admin.js, and data/projects.json.
+
+### Deliverables
+- Complete frontend & backend code.
+- README with instructions for editing, adding projects, and deploying.
+- Dummy images or SVG placeholders where needed.

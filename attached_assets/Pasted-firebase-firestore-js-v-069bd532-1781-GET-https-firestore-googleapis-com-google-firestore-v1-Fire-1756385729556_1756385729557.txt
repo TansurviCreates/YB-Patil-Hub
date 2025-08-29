@@ -1,0 +1,304 @@
+firebase_firestore.js?v=069bd532:1781  GET https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?gsessionid=JqeFT1SfJ75N_HvTtDGNpyGitP7bptZaq_Z0SUSJ4pY&VER=8&database=projects%2F%20ybpatihub%2Fdatabases%2F(default)&RID=rpc&SID=5rIMa1t97bEcsnQOFZtgUQ&AID=0&CI=0&TYPE=xmlhttp&zx=fl1lvnv8zlx4&t=1 net::ERR_ABORTED 400 (Bad Request)
+h.send @ firebase_firestore.js?v=069bd532:1781
+h.ea @ firebase_firestore.js?v=069bd532:1922
+Jb @ firebase_firestore.js?v=069bd532:1208
+fd @ firebase_firestore.js?v=069bd532:2341
+h.Fa @ firebase_firestore.js?v=069bd532:2308
+Da @ firebase_firestore.js?v=069bd532:669
+Promise.then
+x2 @ firebase_firestore.js?v=069bd532:663
+ec @ firebase_firestore.js?v=069bd532:2294
+Rb @ firebase_firestore.js?v=069bd532:1416
+M2.Y @ firebase_firestore.js?v=069bd532:1284
+M2.ca @ firebase_firestore.js?v=069bd532:1215
+ab @ firebase_firestore.js?v=069bd532:950
+F2 @ firebase_firestore.js?v=069bd532:920
+Wc @ firebase_firestore.js?v=069bd532:1954
+h.bb @ firebase_firestore.js?v=069bd532:1949
+h.Ea @ firebase_firestore.js?v=069bd532:1946
+Lc @ firebase_firestore.js?v=069bd532:1846
+h.Pa @ firebase_firestore.js?v=069bd532:1813
+Promise.then
+Nc @ firebase_firestore.js?v=069bd532:1804
+h.Sa @ firebase_firestore.js?v=069bd532:1800
+Promise.then
+h.send @ firebase_firestore.js?v=069bd532:1781
+h.ea @ firebase_firestore.js?v=069bd532:1922
+Jb @ firebase_firestore.js?v=069bd532:1203
+Hb @ firebase_firestore.js?v=069bd532:1178
+h.Ga @ firebase_firestore.js?v=069bd532:2228
+Da @ firebase_firestore.js?v=069bd532:669
+Promise.then
+x2 @ firebase_firestore.js?v=069bd532:663
+fc @ firebase_firestore.js?v=069bd532:2172
+h.connect @ firebase_firestore.js?v=069bd532:2132
+Y2.m @ firebase_firestore.js?v=069bd532:2488
+Yo @ firebase_firestore.js?v=069bd532:12650
+send @ firebase_firestore.js?v=069bd532:12541
+q_ @ firebase_firestore.js?v=069bd532:12858
+Y_ @ firebase_firestore.js?v=069bd532:13010
+__PRIVATE_sendWatchRequest @ firebase_firestore.js?v=069bd532:13266
+(anonymous) @ firebase_firestore.js?v=069bd532:13295
+__PRIVATE_onWatchStreamOpen @ firebase_firestore.js?v=069bd532:13294
+(anonymous) @ firebase_firestore.js?v=069bd532:12936
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:16051
+(anonymous) @ firebase_firestore.js?v=069bd532:16082
+Promise.then
+cc @ firebase_firestore.js?v=069bd532:16082
+enqueue @ firebase_firestore.js?v=069bd532:16051
+enqueueAndForget @ firebase_firestore.js?v=069bd532:16033
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:12936
+__ @ firebase_firestore.js?v=069bd532:12547
+(anonymous) @ firebase_firestore.js?v=069bd532:12698
+setTimeout
+T_ @ firebase_firestore.js?v=069bd532:12697
+j_ @ firebase_firestore.js?v=069bd532:12969
+G_ @ firebase_firestore.js?v=069bd532:12933
+(anonymous) @ firebase_firestore.js?v=069bd532:12923
+Promise.then
+auth @ firebase_firestore.js?v=069bd532:12919
+start @ firebase_firestore.js?v=069bd532:12818
+(anonymous) @ firebase_firestore.js?v=069bd532:12945
+(anonymous) @ firebase_firestore.js?v=069bd532:12765
+(anonymous) @ firebase_firestore.js?v=069bd532:13556
+(anonymous) @ firebase_firestore.js?v=069bd532:16051
+(anonymous) @ firebase_firestore.js?v=069bd532:16082
+Promise.then
+cc @ firebase_firestore.js?v=069bd532:16082
+enqueue @ firebase_firestore.js?v=069bd532:16051
+enqueueAndForget @ firebase_firestore.js?v=069bd532:16033
+handleDelayElapsed @ firebase_firestore.js?v=069bd532:13556
+(anonymous) @ firebase_firestore.js?v=069bd532:13536
+setTimeout
+start @ firebase_firestore.js?v=069bd532:13536
+createAndSchedule @ firebase_firestore.js?v=069bd532:13529
+enqueueAfterDelay @ firebase_firestore.js?v=069bd532:16091
+p_ @ firebase_firestore.js?v=069bd532:12765
+N_ @ firebase_firestore.js?v=069bd532:12944
+start @ firebase_firestore.js?v=069bd532:12818
+__PRIVATE_startWatchStream @ firebase_firestore.js?v=069bd532:13276
+__PRIVATE_onWatchStreamClose @ firebase_firestore.js?v=069bd532:13300
+close @ firebase_firestore.js?v=069bd532:12908
+z_ @ firebase_firestore.js?v=069bd532:12950
+(anonymous) @ firebase_firestore.js?v=069bd532:12938
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:16051
+(anonymous) @ firebase_firestore.js?v=069bd532:16082
+Promise.then
+cc @ firebase_firestore.js?v=069bd532:16082
+enqueue @ firebase_firestore.js?v=069bd532:16051
+enqueueAndForget @ firebase_firestore.js?v=069bd532:16033
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:12938
+a_ @ firebase_firestore.js?v=069bd532:12550
+(anonymous) @ firebase_firestore.js?v=069bd532:12669
+(anonymous) @ firebase_firestore.js?v=069bd532:12656
+ab @ firebase_firestore.js?v=069bd532:950
+F2 @ firebase_firestore.js?v=069bd532:920
+Z2.sa @ firebase_firestore.js?v=069bd532:2543
+R @ firebase_firestore.js?v=069bd532:2398
+Ub @ firebase_firestore.js?v=069bd532:2375
+Qb @ firebase_firestore.js?v=069bd532:1339
+M2.Y @ firebase_firestore.js?v=069bd532:1297
+M2.ca @ firebase_firestore.js?v=069bd532:1215
+ab @ firebase_firestore.js?v=069bd532:950
+F2 @ firebase_firestore.js?v=069bd532:920
+Wc @ firebase_firestore.js?v=069bd532:1954
+h.bb @ firebase_firestore.js?v=069bd532:1949
+h.Ea @ firebase_firestore.js?v=069bd532:1946
+Lc @ firebase_firestore.js?v=069bd532:1846
+h.Pa @ firebase_firestore.js?v=069bd532:1813
+Promise.then
+Nc @ firebase_firestore.js?v=069bd532:1804
+h.Sa @ firebase_firestore.js?v=069bd532:1800
+Promise.then
+h.send @ firebase_firestore.js?v=069bd532:1781
+h.ea @ firebase_firestore.js?v=069bd532:1922
+Jb @ firebase_firestore.js?v=069bd532:1208
+fd @ firebase_firestore.js?v=069bd532:2341
+h.Fa @ firebase_firestore.js?v=069bd532:2308
+Da @ firebase_firestore.js?v=069bd532:669
+Promise.then
+x2 @ firebase_firestore.js?v=069bd532:663
+ec @ firebase_firestore.js?v=069bd532:2294
+Rb @ firebase_firestore.js?v=069bd532:1416
+M2.Y @ firebase_firestore.js?v=069bd532:1284
+M2.ca @ firebase_firestore.js?v=069bd532:1215
+ab @ firebase_firestore.js?v=069bd532:950
+F2 @ firebase_firestore.js?v=069bd532:920
+Wc @ firebase_firestore.js?v=069bd532:1954
+h.bb @ firebase_firestore.js?v=069bd532:1949
+h.Ea @ firebase_firestore.js?v=069bd532:1946
+Lc @ firebase_firestore.js?v=069bd532:1846
+h.Pa @ firebase_firestore.js?v=069bd532:1813
+Promise.then
+Nc @ firebase_firestore.js?v=069bd532:1804
+h.Sa @ firebase_firestore.js?v=069bd532:1800
+Promise.then
+h.send @ firebase_firestore.js?v=069bd532:1781
+h.ea @ firebase_firestore.js?v=069bd532:1922
+Jb @ firebase_firestore.js?v=069bd532:1203
+Hb @ firebase_firestore.js?v=069bd532:1178
+h.Ga @ firebase_firestore.js?v=069bd532:2228
+Da @ firebase_firestore.js?v=069bd532:669
+Promise.then
+x2 @ firebase_firestore.js?v=069bd532:663
+fc @ firebase_firestore.js?v=069bd532:2172
+h.connect @ firebase_firestore.js?v=069bd532:2132
+Y2.m @ firebase_firestore.js?v=069bd532:2488
+Yo @ firebase_firestore.js?v=069bd532:12650
+send @ firebase_firestore.js?v=069bd532:12541
+q_ @ firebase_firestore.js?v=069bd532:12858
+Y_ @ firebase_firestore.js?v=069bd532:13010
+__PRIVATE_sendWatchRequest @ firebase_firestore.js?v=069bd532:13266
+(anonymous) @ firebase_firestore.js?v=069bd532:13295
+__PRIVATE_onWatchStreamOpen @ firebase_firestore.js?v=069bd532:13294
+(anonymous) @ firebase_firestore.js?v=069bd532:12936
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:16051
+(anonymous) @ firebase_firestore.js?v=069bd532:16082
+Promise.then
+cc @ firebase_firestore.js?v=069bd532:16082
+enqueue @ firebase_firestore.js?v=069bd532:16051
+enqueueAndForget @ firebase_firestore.js?v=069bd532:16033
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:12936
+__ @ firebase_firestore.js?v=069bd532:12547
+(anonymous) @ firebase_firestore.js?v=069bd532:12698
+setTimeout
+T_ @ firebase_firestore.js?v=069bd532:12697
+j_ @ firebase_firestore.js?v=069bd532:12969
+G_ @ firebase_firestore.js?v=069bd532:12933
+(anonymous) @ firebase_firestore.js?v=069bd532:12923
+Promise.then
+auth @ firebase_firestore.js?v=069bd532:12919
+start @ firebase_firestore.js?v=069bd532:12818
+(anonymous) @ firebase_firestore.js?v=069bd532:12945
+(anonymous) @ firebase_firestore.js?v=069bd532:12765
+(anonymous) @ firebase_firestore.js?v=069bd532:13556
+(anonymous) @ firebase_firestore.js?v=069bd532:16051
+(anonymous) @ firebase_firestore.js?v=069bd532:16082
+Promise.then
+cc @ firebase_firestore.js?v=069bd532:16082
+enqueue @ firebase_firestore.js?v=069bd532:16051
+enqueueAndForget @ firebase_firestore.js?v=069bd532:16033
+handleDelayElapsed @ firebase_firestore.js?v=069bd532:13556
+(anonymous) @ firebase_firestore.js?v=069bd532:13536
+setTimeout
+start @ firebase_firestore.js?v=069bd532:13536
+createAndSchedule @ firebase_firestore.js?v=069bd532:13529
+enqueueAfterDelay @ firebase_firestore.js?v=069bd532:16091
+p_ @ firebase_firestore.js?v=069bd532:12765
+N_ @ firebase_firestore.js?v=069bd532:12944
+start @ firebase_firestore.js?v=069bd532:12818
+__PRIVATE_startWatchStream @ firebase_firestore.js?v=069bd532:13276
+__PRIVATE_onWatchStreamClose @ firebase_firestore.js?v=069bd532:13300
+close @ firebase_firestore.js?v=069bd532:12908
+z_ @ firebase_firestore.js?v=069bd532:12950
+(anonymous) @ firebase_firestore.js?v=069bd532:12938
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:16051
+(anonymous) @ firebase_firestore.js?v=069bd532:16082
+Promise.then
+cc @ firebase_firestore.js?v=069bd532:16082
+enqueue @ firebase_firestore.js?v=069bd532:16051
+enqueueAndForget @ firebase_firestore.js?v=069bd532:16033
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:12938
+a_ @ firebase_firestore.js?v=069bd532:12550
+(anonymous) @ firebase_firestore.js?v=069bd532:12669
+(anonymous) @ firebase_firestore.js?v=069bd532:12656
+ab @ firebase_firestore.js?v=069bd532:950
+F2 @ firebase_firestore.js?v=069bd532:920
+Z2.sa @ firebase_firestore.js?v=069bd532:2543
+R @ firebase_firestore.js?v=069bd532:2398
+Ub @ firebase_firestore.js?v=069bd532:2375
+Qb @ firebase_firestore.js?v=069bd532:1339
+M2.Y @ firebase_firestore.js?v=069bd532:1297
+M2.ca @ firebase_firestore.js?v=069bd532:1215
+ab @ firebase_firestore.js?v=069bd532:950
+F2 @ firebase_firestore.js?v=069bd532:920
+Wc @ firebase_firestore.js?v=069bd532:1954
+h.bb @ firebase_firestore.js?v=069bd532:1949
+h.Ea @ firebase_firestore.js?v=069bd532:1946
+Lc @ firebase_firestore.js?v=069bd532:1846
+h.Pa @ firebase_firestore.js?v=069bd532:1813
+Promise.then
+Nc @ firebase_firestore.js?v=069bd532:1804
+h.Sa @ firebase_firestore.js?v=069bd532:1800
+Promise.then
+h.send @ firebase_firestore.js?v=069bd532:1781
+h.ea @ firebase_firestore.js?v=069bd532:1922
+Jb @ firebase_firestore.js?v=069bd532:1208
+fd @ firebase_firestore.js?v=069bd532:2341
+h.Fa @ firebase_firestore.js?v=069bd532:2308
+Da @ firebase_firestore.js?v=069bd532:669
+Promise.then
+x2 @ firebase_firestore.js?v=069bd532:663
+ec @ firebase_firestore.js?v=069bd532:2294
+Rb @ firebase_firestore.js?v=069bd532:1416
+M2.Y @ firebase_firestore.js?v=069bd532:1284
+M2.ca @ firebase_firestore.js?v=069bd532:1215
+ab @ firebase_firestore.js?v=069bd532:950
+F2 @ firebase_firestore.js?v=069bd532:920
+Wc @ firebase_firestore.js?v=069bd532:1954
+h.bb @ firebase_firestore.js?v=069bd532:1949
+h.Ea @ firebase_firestore.js?v=069bd532:1946
+Lc @ firebase_firestore.js?v=069bd532:1846
+h.Pa @ firebase_firestore.js?v=069bd532:1813
+Promise.then
+Nc @ firebase_firestore.js?v=069bd532:1804
+h.Sa @ firebase_firestore.js?v=069bd532:1800
+Promise.then
+h.send @ firebase_firestore.js?v=069bd532:1781
+h.ea @ firebase_firestore.js?v=069bd532:1922
+Jb @ firebase_firestore.js?v=069bd532:1203
+Hb @ firebase_firestore.js?v=069bd532:1178
+h.Ga @ firebase_firestore.js?v=069bd532:2228
+Da @ firebase_firestore.js?v=069bd532:669
+Promise.then
+x2 @ firebase_firestore.js?v=069bd532:663
+fc @ firebase_firestore.js?v=069bd532:2172
+h.connect @ firebase_firestore.js?v=069bd532:2132
+Y2.m @ firebase_firestore.js?v=069bd532:2488
+Yo @ firebase_firestore.js?v=069bd532:12650
+send @ firebase_firestore.js?v=069bd532:12541
+q_ @ firebase_firestore.js?v=069bd532:12858
+Y_ @ firebase_firestore.js?v=069bd532:13010
+__PRIVATE_sendWatchRequest @ firebase_firestore.js?v=069bd532:13266
+(anonymous) @ firebase_firestore.js?v=069bd532:13295
+__PRIVATE_onWatchStreamOpen @ firebase_firestore.js?v=069bd532:13294
+(anonymous) @ firebase_firestore.js?v=069bd532:12936
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:16051
+(anonymous) @ firebase_firestore.js?v=069bd532:16082
+Promise.then
+cc @ firebase_firestore.js?v=069bd532:16082
+enqueue @ firebase_firestore.js?v=069bd532:16051
+enqueueAndForget @ firebase_firestore.js?v=069bd532:16033
+(anonymous) @ firebase_firestore.js?v=069bd532:12960
+(anonymous) @ firebase_firestore.js?v=069bd532:12936
+__ @ firebase_firestore.js?v=069bd532:12547
+(anonymous) @ firebase_firestore.js?v=069bd532:12698
+setTimeout
+T_ @ firebase_firestore.js?v=069bd532:12697
+j_ @ firebase_firestore.js?v=069bd532:12969
+G_ @ firebase_firestore.js?v=069bd532:12933
+(anonymous) @ firebase_firestore.js?v=069bd532:12923
+Promise.then
+auth @ firebase_firestore.js?v=069bd532:12919
+start @ firebase_firestore.js?v=069bd532:12818
+(anonymous) @ firebase_firestore.js?v=069bd532:12945
+(anonymous) @ firebase_firestore.js?v=069bd532:12765
+(anonymous) @ firebase_firestore.js?v=069bd532:13556
+(anonymous) @ firebase_firestore.js?v=069bd532:16051
+(anonymous) @ firebase_firestore.js?v=069bd532:16082
+Promise.then
+cc @ firebase_firestore.js?v=069bd532:16082
+enqueue @ firebase_firestore.js?v=069bd532:16051
+enqueueAndForget @ firebase_firestore.js?v=069bd532:16033
+handleDelayElapsed @ firebase_firestore.js?v=069bd532:13556
+(anonymous) @ firebase_firestore.js?v=069bd532:13536Understand this error
+chunk-KIGUGLGC.js?v=069bd532:1211 [2025-08-28T12:54:32.970Z]  @firebase/firestore: Firestore (12.1.0): WebChannelConnection RPC 'Listen' stream 0x17434a53 transport errored. Name: undefined Message: undefined
